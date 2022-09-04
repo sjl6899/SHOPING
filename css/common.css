@@ -220,6 +220,10 @@
     color: #c81623;
 }
 
+.dropdown .dd ul li:hover a::after {
+    color: #c81623;
+}
+
 .navitems ul li {
     float: left;
 }
